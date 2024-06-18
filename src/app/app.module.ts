@@ -26,7 +26,7 @@ const appRoutes: Routes =[
     ServersComponent,
     UserComponent,
     EditServerComponent,
-    ServersComponent
+    ServerComponent
   ],
   imports: [
     BrowserModule,
